@@ -1,3 +1,8 @@
+/* 
+    https://codeforces.com/problemset/problem/318/A
+    Even Odds - CodeForces 
+*/
+
 #include <iostream>
 
 using namespace std;
