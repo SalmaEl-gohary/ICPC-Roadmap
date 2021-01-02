@@ -1,3 +1,8 @@
+/* 
+    https://codeforces.com/problemset/problem/486/A
+    Calculating Function - CodeForces 
+*/
+
 #include <iostream>
 
 using namespace std;
