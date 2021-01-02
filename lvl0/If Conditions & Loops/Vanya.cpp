@@ -1,6 +1,8 @@
 /* 
-	A. Vanya And Fence  - CODEFORCES 
+     https://codeforces.com/contest/677/problem/A
+     A. Vanya And Fence  - CODEFORCES 
 */ 
+
 #include <iostream>
 
 using namespace std;
