@@ -1,3 +1,8 @@
+/*
+    https://www.urionlinejudge.com.br/judge/en/problems/view/1006
+    Average 2 - urionlinejudge
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
