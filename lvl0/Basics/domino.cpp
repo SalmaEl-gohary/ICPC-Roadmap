@@ -1,3 +1,8 @@
+/* 
+    https://codeforces.com/problemset/problem/50/A
+    Domino Piling - CodeForces 
+*/
+
 #include <iostream>
 
 using namespace std;
