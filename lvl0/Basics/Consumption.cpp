@@ -1,3 +1,8 @@
+/*
+	https://www.urionlinejudge.com.br/judge/en/problems/view/1014
+	Consumption - urionlinejudge 
+*/
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
