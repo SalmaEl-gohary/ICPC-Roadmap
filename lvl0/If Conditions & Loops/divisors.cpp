@@ -1,3 +1,8 @@
+/*
+    https://www.urionlinejudge.com.br/judge/en/problems/view/1157
+    Divisors 1 - urionlinejudge
+*/ 
+
 #include <iostream>
 
 using namespace std;
