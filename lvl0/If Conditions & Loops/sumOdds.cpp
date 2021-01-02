@@ -1,3 +1,8 @@
+/*
+    https://www.urionlinejudge.com.br/judge/en/problems/view/1158
+    Sum of Consecuetive Odd Numbers 3 - urionlinejudge
+*/
+
 #include <iostream>
 
 using namespace std;
