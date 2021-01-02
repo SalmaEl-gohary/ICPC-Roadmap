@@ -1,6 +1,6 @@
 /* 
      https://codeforces.com/contest/677/problem/A
-     A. Vanya And Fence  - CODEFORCES 
+     A. Vanya And Fence  - CodeForces
 */ 
 
 #include <iostream>
