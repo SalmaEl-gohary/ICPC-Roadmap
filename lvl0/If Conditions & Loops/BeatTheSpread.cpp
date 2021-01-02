@@ -1,5 +1,6 @@
 /* 
-	Beat The Spread - online judge 
+    https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1753
+    Beat The Spread! - online judge 
 */
 
 #include <iostream>
