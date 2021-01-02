@@ -1,3 +1,7 @@
+/* 
+	Beat The Spread - online judge 
+*/
+
 #include <iostream>
 
 using namespace std;
