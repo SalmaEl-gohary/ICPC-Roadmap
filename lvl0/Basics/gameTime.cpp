@@ -1,3 +1,8 @@
+/*
+	https://www.urionlinejudge.com.br/judge/en/problems/view/1047
+	Game Time with Minutes - urionlinejudge
+*/
+
 #include <iostream>
 
 using namespace std;
